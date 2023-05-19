@@ -1,2 +1,2 @@
 # Example
-![](https://github.com/Lewisjohnward/PySide_Calculator/blob/main/README.md)
+![](https://github.com/Lewisjohnward/PySide_Calculator/blob/main/example.gif)
